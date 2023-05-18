@@ -1,4 +1,6 @@
-# DSGA-1016-finalproject
+# What We Say & What We See: 
+# Finding Alignment of Conceptual Systems in Image-Word Representations
+
 ## Abstract
 Deep neural networks have achieved remarkable success across various domains, including computer vision and natural language processing, through extensive training on real-world stimuli and learning representations of stimuli using thousands of features. These representations, as different sources of input, should produce similar conceptual systems, given that they are different viewpoints of the same underlying reality. 
 
